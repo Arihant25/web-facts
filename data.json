@@ -1,6 +1,18 @@
 {
-"theverge.com": ["Launched on November 1, 2011", "Created a controversial PC building tutorial video", "Owned by Vox Media"],
-"poptropica.com": ["Created by the author of The Diary of a Wimpy Kid"],
-"apple.com": ["This company stopped adding headphone jacks to its phones first", "This company's phones stopped coming with a charger first"],
+  "theverge.com": [
+    "Launched on November 1, 2011",
+    "Created a controversial PC building tutorial video",
+    "Owned by Vox Media"
+  ],
+  "poptropica.com": ["Created by the author of The Diary of a Wimpy Kid"],
+  "apple.com": [
+    "This company stopped adding headphone jacks to its phones first",
+    "This company's phones stopped coming with a charger first"
+  ],
+  "google.com": [
+    "This website was originally called Backrub",
+    "It uses a technology called PageRank",
+    "This website's name is actually a spelling mistake",
+    "This website's first server was made out of LEGO blocks"
+  ]
 }
-
