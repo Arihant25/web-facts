@@ -4,7 +4,9 @@
     "Created a controversial PC building tutorial video",
     "Owned by Vox Media"
   ],
-  "poptropica.com": ["Created by the author of The Diary of a Wimpy Kid"],
+  "poptropica.com": [
+    "Created by the author of The Diary of a Wimpy Kid"
+  ],
   "apple.com": [
     "This company stopped adding headphone jacks to its phones first",
     "This company's phones stopped coming with a charger first"
@@ -14,5 +16,13 @@
     "It uses a technology called PageRank",
     "This website's name is actually a spelling mistake",
     "This website's first server was made out of LEGO blocks"
+  ],
+  "microsoft.com": [
+    "Employees of this company call themselves “softies",
+    "One of the founders of this company is Paul Allen"
+  ],
+  "reddit.com": [
+    "This website aquired Dubsmash",
+    "This website was founded by two university of Virginia roommates in 2005, and funded by Y Combinator"
   ]
 }
