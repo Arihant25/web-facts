@@ -12,6 +12,7 @@
     "This company's phones stopped coming with a charger first"
   ],
   "google.com": [
+    "A site that you shalln't be allowed to use while the extension is turned on"
     "This website was originally called Backrub",
     "It uses a technology called PageRank",
     "This website's name is actually a spelling mistake",
@@ -42,6 +43,20 @@
   ],
   "tinder.com": [
     "It's a famous dating website",
-    "One of the cofounders left early and created another dating service"
+    "One of the cofounders left early and created another dating service",
+    "Also an easily combustible substance"
+  ],
+  "tiktok.com": [
+    "Its Chinese name literally means 'vibrating sound',
+  ],
+  "slashdot.org": [
+    "News for Nerds, Stuff that Matters",
+    "Founder is called 'CmdrTaco' in the community",
+    "Also related to a popular open-source software downloads site"
+  ],
+  "news.ycombinator.com": [
+    "Reddit-styled tech news site",
+    "Written in a programming language(dialect) (co-)made by the founder him/her-self."
+    "(In)famously related to a startup accelerator"
   ]
 }
