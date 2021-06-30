@@ -57,10 +57,14 @@
   "news.ycombinator.com": [
     "Reddit-styled tech news site",
     "Written in a programming language(dialect) (co-)made by the founder him/her-self",
-    "(In)famously rela,ted to a startup accelerator"
+    "(In)famously related to a startup accelerator"
   ],
-  "flikr.com": [],
-  "yahoo.com": [],
+  "flikr.com": [
+    
+  ],
+  "yahoo.com": [
+    
+  ],
   "gmail.com": [
     "This website was laucnhed on April Fools Day"
   ]
