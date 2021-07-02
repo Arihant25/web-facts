@@ -1,7 +1,5 @@
 # web-facts
 
-<hr>
-
 ## What is this?
 
 This contains a JSON file with various websites and a list of facts about them. <br />
