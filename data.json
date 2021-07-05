@@ -67,7 +67,12 @@
   "yahoo.com": [],
   "gmail.com": [
     "This website was laucnhed on April Fools Day, 2004",
-    "This website was a result of Google's '20-percent Time' concept where employees were asked to get involved in personal projects to build a better and friendlier communicative platform.",
+    "This website was a result of Google's '20-percent Time' concept where employees were asked to get involved in personal projects to build a better and friendlier communicative platform",
     "This website's app became the first app on the Google Play store to hit 1 billion installations"
+  ],
+  "github.com": [
+    "A website for open-source software developers",
+    "This website was created by the co-founders of GitHub in 2005",
+    "This website is used to share opensource software"
   ]
 }
